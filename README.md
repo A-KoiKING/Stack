@@ -1,1 +1,2 @@
-# Stack
+# Stack  
+連結リスト
